@@ -13,3 +13,8 @@
 </p>
 
 ![Visitor Count](https : //profile-counter.glitch.me/Yodazon/count.svg)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Yodazon/count.svg" />
+</p>
