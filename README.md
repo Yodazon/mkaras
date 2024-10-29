@@ -11,3 +11,5 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,kotlin,py,pytorch,sklearn,tensorflow,selenium,fastapi,flask,gcp,vscode,blender,windows,apple&perline=4" />
   </a>
 </p>
+
+![Visitor Count](https : //profile-counter.glitch.me/Yodazon/count.svg)
